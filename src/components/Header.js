@@ -35,7 +35,7 @@ function Header() {
                         <li key={index}><a href="#">{car}</a></li>
                     )}
                
-                <li><a href="#">Used Inventory</a></li>
+                <li><a href="#">Used Inventory</a></li> 
                 <li><a href="#">Trade-in</a></li>
                 <li><a href="#">Cybertruck</a></li>
                 <li><a href="#">Roadaster</a></li>
